@@ -961,7 +961,7 @@ h5.search-result-title {
     height: 106px;
     width: 30px;
     right: -27px;
-    background: url(/img/buttons/serp_search-right-btn.png) no-repeat right;
+    background: url(../img/buttons/serp_search-right-btn.png) no-repeat right;
     top: 6px;
 }
 
@@ -991,7 +991,7 @@ h5.search-result-title {
     float: right;
     display: block;
     margin: 35px 35px 0 0;
-    background: url(/img/buttons/serp_search-btn.png) no-repeat;
+    background: url(../img/buttons/serp_search-btn.png) no-repeat;
 }
 
 .outlinks {
@@ -1052,34 +1052,6 @@ h5.search-result-title {
 }
 
 
-
-/*  ------------------------------
-    media object
-    ------------------------------ */
-.media { 
-    margin:10px; 
-}
-.media, .bd {
-    overflow:hidden; 
-    _overflow:visible; 
-    zoom:1;
-}
-.media, .bd-wrap {
-    
-}
-.media .img {
-    float:left;
-    margin-right: 10px;
-}
-.media .img img{
-    display:block;
-}
-.media .imgExt{
-    float:right; 
-    margin-left: 10px;
-}
-
-
 /*  ------------------------------
     float classes
     ------------------------------ */
@@ -1107,89 +1079,6 @@ h5.search-result-title {
     margin: 0 auto !important;    
 }
 
-
-
-/*  ------------------------------
-    padding 
-    ------------------------------ */
-.p-5 {
-    padding: 5px;
-}
-.p-10 {
-    padding: 10px;
-}
-.p-15 {
-    padding: 15px;
-}
-.p-20 {
-    padding: 20px;
-}
-.p-25 {
-    padding: 25px;
-}
-.pb-5 {
-    padding-bottom: 5px;
-}
-.pb-10 {
-    padding-bottom: 10px;
-}
-.pb-15 {
-    padding-bottom: 15px;
-}
-.pb-20 {
-    padding-bottom: 20px;
-}
-.pb-25 {
-    padding-bottom: 25px;
-}
-.pb-100 {
-    padding-bottom: 100px;
-}
-.pt-5 {
-    padding-top: 5px;
-}
-.pt-10 {
-    padding-top: 10px;
-}
-.pt-15 {
-    padding-top: 15px;
-}
-.pt-20 {
-    padding-top: 20px;
-}
-.pt-25 {
-    padding-top: 25px;
-}
-.pl-5 {
-    padding-left: 5px;
-}
-.pl-10 {
-    padding-left: 10px;
-}
-.pl-15 {
-    padding-left: 15px;
-}
-.pl-20 {
-    padding-left: 20px;
-}
-.pl-25 {
-    padding-left: 25px;
-}
-.pr-5 {
-    padding-right: 5px;
-}
-.pr-10 {
-    padding-right: 10px;
-}
-.pr-15 {
-    padding-right: 15px;
-}
-.pr-20 {
-    padding-right: 20px;
-}
-.pr-25 {
-    padding-right: 25px;
-}
 
 
 /*  ------------------------------
