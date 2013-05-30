@@ -88,6 +88,16 @@
 
         <!-- end of page inline script calls -->
         <script type="text/javascript">
+            $(document).ready(function() {
+
+                $(".default-selected").hover(
+                  function () {},
+                  function () {
+                    $(this).removeClass('default-selected');
+                  }
+                );
+
+            });
 
         </script>
 
