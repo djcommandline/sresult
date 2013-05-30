@@ -953,6 +953,11 @@ h5.search-result-title {
     border: 3px solid #e26616;
 }
 
+.default-selected {
+    cursor: pointer;
+    border: 3px solid #e26616 !important;
+}
+
 .media:hover .right-arrow {
     position: absolute;
     float: right;
